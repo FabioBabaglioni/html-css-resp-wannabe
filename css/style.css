@@ -191,11 +191,16 @@ img {
 
     .col-right{
         margin-top: 30px;
+        padding-bottom: 30px;
     }
 
     .why-us .col-right{
         width: 75%;
 
+    }
+
+    .why-us li:last-child{
+        margin-bottom: 0;
     }
     
  }
